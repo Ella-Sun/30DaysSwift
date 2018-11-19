@@ -83,7 +83,7 @@
                             <constraint firstItem="2ea-0R-6jq" firstAttribute="top" secondItem="8Wp-Mb-STT" secondAttribute="bottom" constant="20" id="yXT-vc-DsO"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" id="xsZ-kQ-hRb" userLabel="Custom Font"/>
+                    <navigationItem key="navigationItem" title="Custom Font" id="xsZ-kQ-hRb" userLabel="Custom Font"/>
                     <connections>
                         <outlet property="changFontButton" destination="8Wp-Mb-STT" id="MgH-ja-am6"/>
                         <outlet property="fontTableView" destination="dEn-OZ-NLP" id="vfZ-k7-Tat"/>

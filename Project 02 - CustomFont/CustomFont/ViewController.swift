@@ -31,6 +31,12 @@ class ViewController: UIViewController,UITableViewDelegate, UITableViewDataSourc
         // Do any additional setup after loading the view, typically from a nib.
         
         changFontButton.layer.cornerRadius = 50
+        
+//        for family in UIFont.familyNames {
+//            for font in UIFont.fontNames(forFamilyName: family){
+//                print(font)
+//            }
+//        }
     }
 
     @IBAction func changeFontDidClick(_ sender: UIButton) {
